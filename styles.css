@@ -1,8 +1,5 @@
 /* ==================== SMOOTH SCROLL BEHAVIOR ==================== */
-html {
-    scroll-behavior: smooth;
-    scroll-padding-top: 20px;
-}
+
 
 section {
     scroll-margin-top: 20px;
